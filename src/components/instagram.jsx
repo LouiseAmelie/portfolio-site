@@ -4,7 +4,7 @@ import useInstagram from "../hooks/use-instagram"
 import Heart from "./heart"
 import "./style.css"
 
-const Instagram = () => {
+/* const Instagram = () => {
   const nodes = useInstagram()
 
   return (
@@ -31,6 +31,6 @@ const Instagram = () => {
       })}
     </div>
   )
-}
+} */
 
-export default Instagram
+//export default Instagram
